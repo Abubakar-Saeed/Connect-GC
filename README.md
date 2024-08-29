@@ -2,8 +2,10 @@
 This project is a simple implementation of socket programming for a computer network course. It demonstrates a basic client-server communication using sockets in Python.
 The project involves two main components:
 
-### Server: Listens for incoming client connections and processes requests.
-### Client: Connects to the server and sends/receives messages.
+### Server: 
+Listens for incoming client connections and processes requests.
+### Client: 
+Connects to the server and sends/receives messages.
 
 ## Features
 - Establishes a connection between a client and a server using sockets.
