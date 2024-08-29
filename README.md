@@ -49,4 +49,5 @@ The project involves two main components:
 - Ensure there are no firewall restrictions blocking the connection.
 - Verify that both client and server are on the same network.
 
+![Connect gc](https://github.com/user-attachments/assets/a97f1dd7-9db0-4916-a052-153063aea9a3)
 
